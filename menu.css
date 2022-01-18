@@ -1,0 +1,42 @@
+body{
+
+}
+
+.row{
+    
+    background-color: #C1A42D;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    font-size: large;
+    
+}
+
+.row ul{
+    list-style-type: none;
+    padding: 0;
+
+}
+
+.row li{
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+}
+
+.row a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    
+}
+
+.row a:hover{
+    background-color: #26251F;
+   
+}
+
+.container{
+    padding: 10px;
+}
+
